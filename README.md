@@ -13,7 +13,7 @@ Specification | Configuration
 ----------- | -----------
 Processor | Intel Core i5-6300U
 Integrated Graphics | Intel HD Graphics 520
-Memory | Kingston 16GB DIMM 2133MHz DDR4
+Memory | Kingston 16GB Soild DIMM 2666MHz DDR4
 Storage | 256 Patriot SSD
 Wireless Card | Intel AC-8260 Dual Band + Bluetooth
 Bootloader | OpenCore
