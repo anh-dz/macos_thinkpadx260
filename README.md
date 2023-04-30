@@ -18,7 +18,8 @@ Storage | 256 Patriot SSD
 Wireless Card | Intel AC-8260 Dual Band + Bluetooth
 Bootloader | OpenCore
 Bootloader Ver. | v0.9.1
-<br>
+
+
 ## Screenshot
 <p align="center">
   <br>M O N T E R E Y
