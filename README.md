@@ -1,4 +1,4 @@
-# macOS Monterey on ThinkPad T460s
+#macOS Monterey on ThinkPad X260
 
 [![macOS](https://img.shields.io/badge/macOS-12.*-blue)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.1-green)](https://github.com/acidanthera/OpenCorePkg)
