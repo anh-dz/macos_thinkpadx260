@@ -7,7 +7,7 @@
 **DISCLAIMER:**  
 Read the entire README before you start.  
 I am not responsible for any damages you may cause.
-<br>
+
 ## Specification
 Specification | Configuration
 ----------- | -----------
@@ -39,7 +39,7 @@ Bootloader Ver. | v0.9.1
   <img src="screenshot/m2.png"/>
 </p>
 </details>  
-<br>
+
 ## Installation (MUST DO)
 
 <details>  
@@ -72,7 +72,7 @@ Bootloader Ver. | v0.9.1
 
 <details>  
 <summary><strong>Enable Apple Services</strong></summary>
-</br>
+
 1. Run the following script in Terminal
 
 ```bash
@@ -142,13 +142,13 @@ git clone https://github.com/corpnewt/GenSMBIOS && cd GenSMBIOS && chmod +x GenS
 
 <details>  
 <summary><strong>What's not working ⚠️</strong></summary>
-<br>
+
 - Safari DRM `Use Chromium engine to watch Apple TV+, Amazon Prime Video, Netflix and others`
 - WWAN (never be supported because there is no kext for MacOS)
 - Fingerprint Reader
 
 </details>
-<br>
+
 ## Thanks to:
 
 - The hackintosh community on GitHub
