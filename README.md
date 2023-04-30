@@ -44,7 +44,7 @@ Bootloader Ver. | v0.9.1
 
 <details>  
 <summary><strong>Install and BIOS</strong></summary>
-</br>
+
 1. [Create an installation media](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/#making-the-installer)
 1. Download the latest EFI folder and copy it into the ESP partiton
 1. Change your BIOS settings according to the table below
