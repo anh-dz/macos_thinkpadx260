@@ -7,9 +7,7 @@
 **DISCLAIMER:**  
 Read the entire README before you start.  
 I am not responsible for any damages you may cause.
-
 <br>
-
 ## Specification
 Specification | Configuration
 ----------- | -----------
