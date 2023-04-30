@@ -39,13 +39,11 @@ Bootloader Ver. | v0.9.1
 </p>
 </details>  
 <br>
-
 ## Installation (MUST DO)
 
 <details>  
 <summary><strong>Install and BIOS</strong></summary>
 </br>
-
 1. [Create an installation media](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/#making-the-installer)
 1. Download the latest EFI folder and copy it into the ESP partiton
 1. Change your BIOS settings according to the table below
@@ -74,7 +72,6 @@ Bootloader Ver. | v0.9.1
 <details>  
 <summary><strong>Enable Apple Services</strong></summary>
 </br>
-
 1. Run the following script in Terminal
 
 ```bash
@@ -118,15 +115,12 @@ git clone https://github.com/corpnewt/GenSMBIOS && cd GenSMBIOS && chmod +x GenS
 6. Save and reboot the system
 
 </details>
-
 <br>
-
 ## Status
 
 <details>  
 <summary><strong>What's working ✅</strong></summary>
 </br>
- 
 - CPU Power Management `~1W on IDLE`
 - Intel HD 520 Graphics `incuding graphics acceleration`
 - USB ports
@@ -147,16 +141,13 @@ git clone https://github.com/corpnewt/GenSMBIOS && cd GenSMBIOS && chmod +x GenS
 
 <details>  
 <summary><strong>What's not working ⚠️</strong></summary>
-</br>
-
+<br>
 - Safari DRM `Use Chromium engine to watch Apple TV+, Amazon Prime Video, Netflix and others`
 - WWAN (never be supported because there is no kext for MacOS)
 - Fingerprint Reader
 
 </details>
-
 <br>
-
 ## Thanks to:
 
 - The hackintosh community on GitHub
