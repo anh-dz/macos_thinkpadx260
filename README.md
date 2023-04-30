@@ -8,8 +8,6 @@
 Read the entire README before you start.  
 I am not responsible for any damages you may cause.
 
-<br>
-
 ## Specification
 Specification | Configuration
 ----------- | -----------
@@ -20,7 +18,8 @@ Storage | 256 Patriot SSD
 Wireless Card | Intel AC-8260 Dual Band + Bluetooth
 Bootloader | OpenCore
 Bootloader Ver. | v0.9.1
-<br>
+
+
 ## Screenshot
 <p align="center">
   <br>M O N T E R E Y
@@ -40,13 +39,11 @@ Bootloader Ver. | v0.9.1
   <img src="screenshot/m2.png"/>
 </p>
 </details>  
-<br>
 
 ## Installation (MUST DO)
 
 <details>  
 <summary><strong>Install and BIOS</strong></summary>
-</br>
 
 1. [Create an installation media](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/#making-the-installer)
 1. Download the latest EFI folder and copy it into the ESP partiton
@@ -75,7 +72,6 @@ Bootloader Ver. | v0.9.1
 
 <details>  
 <summary><strong>Enable Apple Services</strong></summary>
-</br>
 
 1. Run the following script in Terminal
 
@@ -121,14 +117,11 @@ git clone https://github.com/corpnewt/GenSMBIOS && cd GenSMBIOS && chmod +x GenS
 
 </details>
 
-<br>
-
 ## Status
 
 <details>  
 <summary><strong>What's working ✅</strong></summary>
-</br>
- 
+
 - CPU Power Management `~1W on IDLE`
 - Intel HD 520 Graphics `incuding graphics acceleration`
 - USB ports
@@ -149,15 +142,12 @@ git clone https://github.com/corpnewt/GenSMBIOS && cd GenSMBIOS && chmod +x GenS
 
 <details>  
 <summary><strong>What's not working ⚠️</strong></summary>
-</br>
 
 - Safari DRM `Use Chromium engine to watch Apple TV+, Amazon Prime Video, Netflix and others`
 - WWAN (never be supported because there is no kext for MacOS)
 - Fingerprint Reader
 
 </details>
-
-<br>
 
 ## Thanks to:
 
