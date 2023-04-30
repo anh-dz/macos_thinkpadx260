@@ -153,4 +153,8 @@ git clone https://github.com/corpnewt/GenSMBIOS && cd GenSMBIOS && chmod +x GenS
 
 - The hackintosh community on GitHub
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/)
+<<<<<<< HEAD
 - [r/hackintosh](https://www.reddit.com/r/hackintosh/)
+=======
+- [r/hackintosh](https://www.reddit.com/r/hackintosh/)
+>>>>>>> bbaa4a8ca6d238e4d41a1ba994ab7b2ea2cdffca
