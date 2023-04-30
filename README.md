@@ -116,7 +116,7 @@ git clone https://github.com/corpnewt/GenSMBIOS && cd GenSMBIOS && chmod +x GenS
 6. Save and reboot the system
 
 </details>
-<br>
+
 ## Status
 
 <details>  
