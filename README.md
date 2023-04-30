@@ -121,7 +121,7 @@ git clone https://github.com/corpnewt/GenSMBIOS && cd GenSMBIOS && chmod +x GenS
 
 <details>  
 <summary><strong>What's working ✅</strong></summary>
-</br>
+
 - CPU Power Management `~1W on IDLE`
 - Intel HD 520 Graphics `incuding graphics acceleration`
 - USB ports
