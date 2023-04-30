@@ -13,11 +13,10 @@ Specification | Configuration
 ----------- | -----------
 Processor | Intel Core i5-6300U
 Integrated Graphics | Intel HD Graphics 520
-Memory | Kingston 16GB Soild DIMM 2666MHz DDR4
+Memory | Kingston 16GB Solid DIMM 2666MHz DDR4
 Storage | 256 Patriot SSD
 Wireless Card | Intel AC-8260 Dual Band + Bluetooth
-Bootloader | OpenCore
-Bootloader Ver. | v0.9.1
+Bootloader | OpenCore 0.9.1
 
 
 ## Screenshot
@@ -133,10 +132,9 @@ git clone https://github.com/corpnewt/GenSMBIOS && cd GenSMBIOS && chmod +x GenS
 - Speakers and headphones combo jack 
 - Batteries
 - Keyboard map and hotkeys with [ThinkPad Assistant](https://github.com/MSzturc/ThinkpadAssistant)
-- Touchscreen
 - Trackpad, Trackpoint and physical buttons
 - HDMI `with digital audio passthrough`
-- SD Card Reader `slow r/w speed but works`
+- SD Card Reader
 
 </details>
 
