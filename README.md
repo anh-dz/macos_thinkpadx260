@@ -4,7 +4,7 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.1-green)](https://github.com/acidanthera/OpenCorePkg)
 [![BIOS](https://img.shields.io/badge/BIOS-1.50-yellow)](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x260/downloads/driver-list/component?name=BIOS%2FUEFI)
 
-**UPDATE**
+## UPDATE
 Hi everyone. Apple is going to release MacOS 26. It is the last version supports Macbook running Intel chip, which also means the end of Hackintosh. After a long time using Hackintosh, I decided to switch to buy a Macbook running Apple Sillicon chip because of performance and time efficiency. Thank you for support me all this time ❤️
 
 **DISCLAIMER:**  
